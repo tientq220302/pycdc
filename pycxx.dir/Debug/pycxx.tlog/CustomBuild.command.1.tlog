@@ -1,0 +1,20 @@
+^D:\CODING\GITHUB\PYCDC\CMAKEFILES\025547C72B98C2EA62862719BF6EDD0B\PYTHON_10.CPP.RULE
+setlocal
+C:\Users\tranq\AppData\Local\Programs\Python\Python311\python.exe D:/Coding/GitHub/pycdc/bytes/comp_map.py D:/Coding/GitHub/pycdc/bytes D:/Coding/GitHub/pycdc/bytes
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CODING\GITHUB\PYCDC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Coding/GitHub/pycdc -BD:/Coding/GitHub/pycdc --check-stamp-file D:/Coding/GitHub/pycdc/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

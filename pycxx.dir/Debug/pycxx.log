@@ -1,0 +1,40 @@
+﻿  Generating bytes/python_10.cpp, bytes/python_11.cpp, bytes/python_13.cpp, bytes/python_14.cpp, bytes/python_15.cpp, bytes/python_16.cpp, bytes/python_20.cpp, bytes/python_21.cpp, bytes/python_22.cpp, bytes/python_23.cpp, bytes/python_24.cpp, bytes/python_25.cpp, bytes/python_26.cpp, bytes/python_27.cpp, bytes/python_30.cpp, bytes/python_31.cpp, bytes/python_32.cpp, bytes/python_33.cpp, bytes/python_34.cpp, bytes/python_35.cpp, bytes/python_36.cpp, bytes/python_37.cpp, bytes/python_38.cpp, bytes/python_39.cpp, bytes/python_310.cpp, bytes/python_311.cpp
+  Building Custom Rule D:/Coding/GitHub/pycdc/CMakeLists.txt
+  bytecode.cpp
+  data.cpp
+  pyc_code.cpp
+  pyc_module.cpp
+  pyc_numeric.cpp
+  pyc_object.cpp
+  pyc_sequence.cpp
+  pyc_string.cpp
+  python_10.cpp
+  python_11.cpp
+  python_13.cpp
+  python_14.cpp
+  python_15.cpp
+  python_16.cpp
+  python_20.cpp
+  python_21.cpp
+  python_22.cpp
+  python_23.cpp
+  python_24.cpp
+  python_25.cpp
+  Generating Code...
+  Compiling...
+  python_26.cpp
+  python_27.cpp
+  python_30.cpp
+  python_31.cpp
+  python_32.cpp
+  python_33.cpp
+  python_34.cpp
+  python_35.cpp
+  python_36.cpp
+  python_37.cpp
+  python_38.cpp
+  python_39.cpp
+  python_310.cpp
+  python_311.cpp
+  Generating Code...
+  pycxx.vcxproj -> D:\Coding\GitHub\pycdc\Debug\pycxx.lib

@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Coding/GitHub/pycdc/CMakeLists.txt
+  pycdc.cpp
+  ASTree.cpp
+  ASTNode.cpp
+  Generating Code...
+  pycdc.vcxproj -> D:\Coding\GitHub\pycdc\Debug\pycdc.exe

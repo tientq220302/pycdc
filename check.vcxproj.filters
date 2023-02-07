@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Coding\GitHub\pycdc\CMakeFiles\17b7bd0354e9b3d8c0e9905cf3ddc5c4\check.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Coding\GitHub\pycdc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Coding\GitHub\pycdc\CMakeFiles\check" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{61F3A96B-1439-3A06-A4CF-9EC1FA9AD50A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
